@@ -1,5 +1,5 @@
 Firstly I created a Jupyter Notebook Project .
-then imported a dataset from koggle named Medical Appoinment No Shows(that is not present in my repository dew to sizing issues).
+then imported a dataset from kaggle named Medical Appoinment No Shows(that is not present in my repository dew to sizing issues).
 After that i started performing operations on it.
 first operation i performed to check wheather there is null or not.
 after that checked for duplicates.
